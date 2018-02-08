@@ -1,6 +1,6 @@
-# SalvatoreDevPackage
+# SalvatoreDev Psd to Html Excercise 1
 
-This is a package for my portfolio page with my custom front-end workflow. In this package I'm using **gulp** as a task runner for copy, update, compile, etc.
+This is a package for mockup transition from Psd to Html with my custom front-end workflow and Bootstrap. In this package I'm using **gulp** as a task runner for copy, update, compile, etc.
 
 ### Usage:
 
