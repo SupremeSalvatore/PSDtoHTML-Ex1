@@ -10,6 +10,7 @@ This is a package for my portfolio page with my custom front-end workflow. In th
 4. [You should see Psd to Html Template I did](https://supremesalvatore.github.io/PSDtoHTML-Ex1/)
 5. Start modifying in source files
 
+PSD template source: (http://www.os-templates.com/free-psd-templates/the-modernist)
 
 **Any feedback is welcome!**
 
